@@ -1,0 +1,3 @@
+WARNING: Using OS Login user [sanjiv_pansari_macys_com] instead of default user [b005669]
+packet_write_wait: Connection to 35.245.116.17 port 22: Broken pipe
+ERROR: (gcloud.compute.ssh) [/usr/bin/ssh] exited with return code [255].
